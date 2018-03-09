@@ -1,0 +1,3 @@
+#
+dsn=<put dsn here>
+stacktrace.app.packages=com.wingspan
